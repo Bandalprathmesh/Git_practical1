@@ -5,9 +5,7 @@ if hungry=='yes':
 elif hungry=='y':
     print("y")
 elif hungry=='n':
-    print("n")
-elif hungry=='b':
-    print("b") 
+    print("n") 
 else:
     print("That's better")
     
