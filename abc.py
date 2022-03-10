@@ -10,3 +10,4 @@ elif hungry=='3':
     print("3") 
 else:
     print("That's better")
+    
