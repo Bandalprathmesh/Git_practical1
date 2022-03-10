@@ -1,7 +1,6 @@
 hungry = input("are you hungry?")
-
 if hungry=='yes':
-    print('eat something1')
-   
+    print('Pizzza')
+    print('Burger')   
 else:
     print("That's better")
