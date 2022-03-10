@@ -3,6 +3,8 @@ if hungry=='yes':
     print('Pizzza')
     print('Burger') 
 elif hungry=='y':
-    print("y") 
+    print("y")
+elif hungry=='n':
+    print("n") 
 else:
     print("That's better")
