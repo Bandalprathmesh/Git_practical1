@@ -6,6 +6,7 @@ elif hungry=='n':
     print("n")
 elif hungry=='a':
     print("a")
-
+elif hungry=='b':
+    print("b") 
 else:
     print("That's better")
